@@ -98,6 +98,8 @@ installServer devKit 3.2.7
 ```
 *Note that the script will prompt you for your password because it uses `sudo` to setup up your server for running GemStone*.
 
+docs/images/3-Distributed-1.svg
+
 ###Open a tODE client image
 When the `installServer` script finishes, the tode client image is opened:
 
